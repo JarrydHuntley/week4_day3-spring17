@@ -1,2 +1,12 @@
 ﻿body {
 }
+
+.firstStyle{
+    color:red;
+    background-color:aqua;
+}
+
+.secondStyle{
+    color:forestgreen;
+    background-color: burlywood;
+}
