@@ -23,6 +23,6 @@ h1.secondStyle.otherStyle{
     font-family:Calibri;
 }
 
-#firstWords{
+.firstWords{
     text-decoration: underline;
 }
