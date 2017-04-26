@@ -8,5 +8,17 @@
 
 .secondStyle{
     color:forestgreen;
-    background-color: burlywood;
+    background-color: indianred;
+}
+
+div h2{
+    color:orange;
+}
+
+h1.secondStyle.otherStyle{
+    font-size: 50px;
+}
+
+.otherStyle{
+    font-family:Calibri;
 }
